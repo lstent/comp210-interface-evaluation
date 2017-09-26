@@ -102,7 +102,7 @@ nav ul{
 nav ul li{
 }
 nav ul li a{
-    float: left;
+    float: center;
     display: block;
     color: #f2f2f2;
     text-align: center;
