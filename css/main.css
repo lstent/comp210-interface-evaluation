@@ -92,7 +92,7 @@ header{
 aside{
   width:30%;
   min-height: 300px;
-  float:left;
+  float: top;
   background:#c8a4b5;
 }
 nav ul{
