@@ -102,8 +102,6 @@ nav ul li{
 }
 nav ul li a{
   display:block;
-  width: 90%;
-  height:60px;
   color: #fff;
   line-height: 60px;
   text-align: center;
