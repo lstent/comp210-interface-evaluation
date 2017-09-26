@@ -75,7 +75,7 @@ h2{
 .main-container{
   width:960px;
   background:#eee;
-  margin: 30px auto;
+  margin: 0;
   position: relative;
   overflow: auto;
   padding-bottom:80px;
