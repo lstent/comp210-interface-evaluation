@@ -90,10 +90,11 @@ header{
   min-height:400px;
 }
 aside{
-  width:30%;
-  min-height: 300px;
-  float: top;
-  background:#c8a4b5;
+  width:100%;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  background-color: #222;
 }
 nav ul{
   margin:10px;
@@ -105,7 +106,6 @@ nav ul li a{
   display:block;
   width: 90%;
   height:60px;
-  background-color: #222;
   color: #fff;
   line-height: 60px;
   text-align: center;
