@@ -90,9 +90,11 @@ header{
   min-height:400px;
 }
 aside{
-  width:100%;
-  top: 0;
-  background-color: #222;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 nav ul{
   margin:10px;
@@ -101,11 +103,12 @@ nav ul li{
   margin:5px;
 }
 nav ul li a{
-  display:block;
-  color: #fff;
-  line-height: 60px;
-  text-align: center;
-  text-decoration: none;
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 nav ul li a.selected{
   text-decoration: underline;
