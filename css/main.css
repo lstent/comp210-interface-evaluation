@@ -122,11 +122,11 @@ nav ul li a:hover{
   background: #888;
 }
 section{
-  width:99%;
-  min-height:300px;
+  width:90%;
+  min-height:200px;
   background: #000000;
   float: center;
-  margin: 8px;
+  margin: 30px;
   color: #F5F5F5
 }
 footer{
